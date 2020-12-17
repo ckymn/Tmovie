@@ -1,6 +1,6 @@
 🎥📽🎬✨
-## Node.js Tabanli bir movie-api olusturduk Kodlari React Framework ile yazdim..
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## This project
+This project was created with React , Node.js ,React-Sementic-ui Bootstrap ,html5
 
 ## Available Scripts
 
